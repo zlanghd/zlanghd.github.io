@@ -1,2 +1,1 @@
-# Danime-Website
-Website for Danime Discord Bot
+# zlanghd.github.io
